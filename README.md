@@ -14,3 +14,6 @@ I'm Benz. I'm working as Front-End Developer `@Jobcan Thailand`
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benzkittisak/benzkittisak/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+## Work Technology 👨🏼‍💻
+<div style="display: flex; align-items: flex-start; justify-content: space-between;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="58" height="58" /></div>
