@@ -1,4 +1,4 @@
-Hey 👋 What's sub!!
+<h1 align="center">Hey 👋 What's sub!!</h1>
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [kittisak.panluea@icloud.com](mailto:kittisak.panluea@icloud.com)
