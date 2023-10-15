@@ -1,7 +1,9 @@
-## Hi there !! 👋
-I'm Benz. I'm working as Front-End Developer `@Jobcan Thailand`
-
-## Work Statistics
+<h1 align="center">Hey 👋 What's sub!!</h1>
+I'm Benz. I'm working as Front-End Developer
+* 🌍  I'm based in Bangkok, Thailand
+*  ✉️  You can contact me at [kittisak.panluea@icloud.com](mailto:kittisak.panluea@icloud.com)
+* 🚀  I'm currently working on [Jobcan](http://jobcan.in.th)
+## Work Stats
 <a href="https://github.com/benzkittisak/benzkittisak/">
 
 ![](https://raw.githubusercontent.com/benzkittisak/github-stats-transparent/output/generated/overview.svg)
