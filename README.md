@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's sub!!</h1>
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [kittisakp@whiletruesleep.dev](mailto:kittisakp@whiletruesleep.dev)
+* ✉️  Reach me [kittisakp@whiletruesleep.dev](mailto:kittisakp@whiletruesleep.dev)
 * 🚀  I'm currently working on [Front-End Developer @Jobcan Thailand](http://jobcan.in.th)
 * 👾 My website [Whiletrueesleep](https://whiletruesleep.dev)
 ## Work Stats
