@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  Reach me [kittisakp@whiletruesleep.dev](mailto:kittisakp@whiletruesleep.dev)
-* 🚀  I'm currently working on [Front-End Developer @Jobcan Thailand](http://jobcan.in.th)
+* 🚀  I'm currently working on [Front-End Developer @Jobcan Thailand](https://th.jobcan.in.th)
 * 👾 My website [Whiletrueesleep](https://whiletruesleep.dev)
 ## Work Stats
 <a href="https://github.com/benzkittisak/benzkittisak/">
